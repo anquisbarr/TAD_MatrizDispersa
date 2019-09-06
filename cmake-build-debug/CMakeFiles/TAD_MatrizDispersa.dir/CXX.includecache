@@ -6,11 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Sebastian Q.B/CLionProjects/TAD_MatrizDispersa/MatrizDispersa.cpp
-MatrizDispersa.h
-C:/Users/Sebastian Q.B/CLionProjects/TAD_MatrizDispersa/MatrizDispersa.h
-
-C:/Users/Sebastian Q.B/CLionProjects/TAD_MatrizDispersa/MatrizDispersa.h
+C:/Users/Sebastian Q.B/Documents/GitHub/TAD_MatrizDispersa/MatrizDispersa.h
 vector
 -
 ctime
@@ -20,11 +16,11 @@ cstdlib
 iostream
 -
 
-C:/Users/Sebastian Q.B/CLionProjects/TAD_MatrizDispersa/main.cpp
+C:/Users/Sebastian Q.B/Documents/GitHub/TAD_MatrizDispersa/main.cpp
 iostream
 -
 MatrizDispersa.h
-C:/Users/Sebastian Q.B/CLionProjects/TAD_MatrizDispersa/MatrizDispersa.h
+C:/Users/Sebastian Q.B/Documents/GitHub/TAD_MatrizDispersa/MatrizDispersa.h
 time.h
 -
 
